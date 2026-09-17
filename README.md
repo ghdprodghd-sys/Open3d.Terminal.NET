@@ -1,13 +1,23 @@
-# Open3d.NET
-This goes from a webpage to a 3D .js library called Open3D.js. It's under development, so the project has many bugs (report your bug here (https://join.slack.com/t/opentree-workspace/shared_invite/zt-49dzezots-f8HnQhlxRI95ViWCSlENVw)).
+# Open3D.NET
+Open3D.terminal.NET is a set of open-source terminal scripts.
+(https://join.slack.com/t/opentree-workspace/shared_invite/zt-49dzezots-f8HnQhlxRI95ViWCSlENVw).
 
-# What does she bring?
-render clear
+# How does it work?
 
-no three.js no babylon.js 
+It works using Console.WriteLine("..."); which writes several hashtags on the screen in very fast lines, giving the impression of a 3D game. Remember that this is just an experiment; a real game is not expected, but rather an impression of something.
 
-pure render 
+# How do I reproduce it?
+It's easy; it's written in C#, a language that is very easy to compile. Whether you downloaded the source code or the .exe file, I'll explain how to do it right now.
 
-sheder max (tecnology)
+# Source code
+For the source code, just follow these steps:
 
-export models 3d .glf .blender .obj
+1. Hold Shift and right-click; an option like "Open this folder in PowerShell" (or something similar) will appear.
+2. Click "Open this folder in PowerShell," and PowerShell will open inside that folder.
+4. Type "dotnet run" and it will compile your project.
+
+# The .exe version
+For the .exe version, just follow these steps:
+
+1. Double-click the folder to open it.
+2. Double-click the file to run the app.
